@@ -1,8 +1,5 @@
-# FCM2 Programming Assignment 3
+# Piecewise Polynomial Interpolation and Cubic Splines**
 
-**Piecewise Polynomial Interpolation and Cubic Splines**
-
-Foundations of Computational Mathematics 2 — Florida State University, Spring 2026
 
 ## Overview
 
