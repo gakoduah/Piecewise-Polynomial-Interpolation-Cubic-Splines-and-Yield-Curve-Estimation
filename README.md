@@ -1,4 +1,4 @@
-# Piecewise Polynomial Interpolation and Cubic Splines**
+# Piecewise Polynomial Interpolation and Cubic Splines
 
 
 ## Overview
